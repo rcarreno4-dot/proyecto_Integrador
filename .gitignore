@@ -1,0 +1,19 @@
+# Java / NetBeans
+build/
+dist/
+nbproject/private/
+nbproject/build-impl.xml
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs / temp
+*.log
+hs_err_pid*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
